@@ -23,6 +23,7 @@ footer {
 .container {
     margin: 100px 200px;
     display: column;
+    width: 100%
 }
 
 .content1_left {
